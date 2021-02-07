@@ -7,7 +7,7 @@
  * Author URI:      https://www.linkedin.com/in/yamilcruz/
  * Text Domain:     sample-plugin
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         QR Code Generator
  */
