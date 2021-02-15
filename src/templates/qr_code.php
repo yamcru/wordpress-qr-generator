@@ -10,7 +10,7 @@
  */
 
 
-$qr_entry_page = get_field("qr_entry_page");
+$qr_entry_page = the_excerpt();
 //Check if r=true and redirect
 if (isset($_GET['re'])) {
     wp_redirect( $qr_entry_page );

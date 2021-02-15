@@ -7,7 +7,7 @@ function custom_post_type_qr_codes() {
         // 'editor', // post content
         // 'author', // post author
         'thumbnail', // featured images
-        // 'excerpt', // post excerpt
+        'excerpt', // post excerpt
         // 'custom-fields', // custom fields
         // 'revisions', // post revisions
         // 'post-formats', // post formats
